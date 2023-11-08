@@ -8,5 +8,7 @@ The Shader supports most Parameters the Warframe Material Files mention.
 
 ![WarframeExtra](https://github.com/Odinv2/WarframeGen3UnityShader/assets/150294331/31d16128-c955-45c6-b628-e9b0554b9bee)
 
+You can grab a bunch of Detail Textures from the Game off of this Page
+
 For support Contact Discord
 odin_v2 
